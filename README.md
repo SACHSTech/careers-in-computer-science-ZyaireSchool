@@ -1,5 +1,6 @@
 # Database Administrator (DBA)
-![DBA](images/dba_admin.jpg "DBA")
+![DBA](images/dba_admin.jpg)
+
 ## A Short Description 
 A database Administrators use software to store and organize data. They help the companies structure their data to make it easily accessible, valid, and **secure**. 
 *"Common tasks include merging data, configuring who can access it, performing backups, checking for errors and security problems, and making new databases that meet company requirements."* 
@@ -67,14 +68,28 @@ Extra Required Skills
 * Quick learner + multi tasker
 * Able to team work and work under pressure
 
-### Mid-level position - Habitat for Humanity Canada 
-**Salary:** $34,000 - $45,000 a year     
-**City:** Toronto    
+### Mid-level position - TouchTunes / PlayNetwork 
+**Salary:** $53,000 - $68,000 a year     
+**City:** Montréal, QC       
 **The actual job description:**      
-- 60% of Responsibilities, Data Processing; 15% of Responsibilities, Customer Service (internal and external);10% of Responsibilities, Support of Resource Development Operations; 15% of Responsibilities, Database Maintenance.
+- Maintain, upgrade, improve and design our NoSQL Databases. Currently, we use MongoDB and Couchbase, but the role also extends to Elasticsearch and Redis. 
+- Help client teams build their software for our data platforms – involvement from planning to production deployment of our applications. 
+- Standardize and automate Database provisioning and Schema Changes for Cloud environments Designing and implementing Data backup/recovery and archiving strategies Identify areas of opportunity and improve current operational processes Maintain security of our data. 
+- Enhance data interactions by optimizing queries, creating indexes, and data structure. 
+- Create and keep up-to-date detailed Jira tickets associated with tasks & Projects. 
+- Ensuring the availability of development, test & prod environments; and subsequently automating & deploying solutions into these environments. 
+- Act as a critical support cast on all applications, infrastructure and post-prod activities. 
+- Research solutions to complex problems and drive proof-of-concepts
 
 **Any additional skills or experience required:** 
-- Proven dedication to customer service; Ability and willingness to work with repeated manual data entry; Ability and willingness to manage telephone and email questions and concerns from donors; Attention to detail and accuracy; Ability to follow direction, work independently as well as a team member; Positive, proactive and cooperative attitude; Excellent written and verbal communication skills; Demonstrated organizational skills and initiative.
+- Essential – Tech savvy & passionate.
+- Experience of administering Linux based systems
+- Essential -Experience with Amazon AWS services (e.g. EC2, ASG, Cloudwatch, IAM, Cloudformation)
+- MongoDB and (Couchbase or Elasticsearch or Redis)
+Experience in Scripting/automation tooling (bash/python or Ansible)
+- Preferred – D.E.C. or college degree in computer science or engineering, or equivalent.
+- Preferred – 3+ years of experience in software development and/or IT operations working with a high-load, Internet-facing service ecosystem.
+
 
 ### Senior Level - Zenith System Solutions Inc.
 **Salary:** $95,000 - $130,000 a year  
