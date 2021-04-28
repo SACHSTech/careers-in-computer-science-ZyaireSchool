@@ -45,9 +45,9 @@ Data administrators need to keep an eye on any emergencies happening. Therefore,
 ***
 ## Salary Range for different level of employees
 ### Entry-level position - German Star Motors Inc
-**Salary:** $42,000 - $59,000 a year
-**City:** Scarborough
-**The actual job description:**  
+**Salary:** $42,000 - $59,000 a year  
+**City:** Scarborough  
+**The actual job description:**    
 - Maintain database script, Screens incoming calls, Provides administrative support to the Management team, Debug and fix breakdown scripts, Coordinate with other departments for automation requirement, Support data collection and validate the accuracy of collected data, Answering and directing phone calls, updating data, helping paper-work filing.
 
 **Any additional skills or experience required:** 
@@ -67,18 +67,18 @@ Extra Required Skills
 * Able to team work and work under pressure
 
 ### Mid-level position - Habitat for Humanity Canada 
-**Salary:** $34,000 - $45,000 a year 
-**City:** Toronto
-**The actual job description:**  
+**Salary:** $34,000 - $45,000 a year     
+**City:** Toronto    
+**The actual job description:**      
 - 60% of Responsibilities, Data Processing; 15% of Responsibilities, Customer Service (internal and external);10% of Responsibilities, Support of Resource Development Operations; 15% of Responsibilities, Database Maintenance.
 
 **Any additional skills or experience required:** 
 - Proven dedication to customer service; Ability and willingness to work with repeated manual data entry; Ability and willingness to manage telephone and email questions and concerns from donors; Attention to detail and accuracy; Ability to follow direction, work independently as well as a team member; Positive, proactive and cooperative attitude; Excellent written and verbal communication skills; Demonstrated organizational skills and initiative.
 
 ### Senior Level - Zenith System Solutions Inc.
-**Salary:** $95,000 - $130,000 a year
-**City:** Toronto
-**The actual job description:**  
+**Salary:** $95,000 - $130,000 a year  
+**City:** Toronto  
+**The actual job description:**    
 - 7-8 years experience as a DBA and SQL knowledge in an SW company, Significant experience and solid knowledge of RDBMS, Experience with UNIX or UNIX variants and scripting, Relevant Database Certifications are required. Experience in operating within a complex, multi-interface environment.
 
 **Any additional skills or experience required:** 
