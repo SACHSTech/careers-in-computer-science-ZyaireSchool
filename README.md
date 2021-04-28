@@ -86,4 +86,23 @@ Extra Required Skills
 ***
 ### College and/or universities that offers entrance into a related program
 Every database administrator has an educational background in computer science programs, and one of the most famous schools of computer science programs is the University of Waterloo.
- 
+#### Entrance Requirements
+- Six Grade 12 U and/or M courses including Advanced Functions, Calculus and Vectors, Any Grade 12 U English, One other 4U course
+- Recommended Grade 11 U Introduction to computer science.
+- Admission average: low to mid-90s
+- Have written EUCLID and CSMC
+
+#### Description of first-year program to take
+For the first year of the university, we need to take 10 courses including 3 elective courses, one communication skill course, and 6 mandatory courses.
+**September to December:** 
+- CS 135 - Designing Functional Programs
+- MATH 135 - Algebra
+- MATH 137 - Calculus 1
+- **One communication skills course** (A skill that a database adminstrator need to have)
+- One elective
+
+**January to April:** 
+- CS 136 - Algorithm Design and Data Abstraction
+- MATH 136 - Linear Algebra 1
+- MATH 138 - Calculus 2
+- Two electives
