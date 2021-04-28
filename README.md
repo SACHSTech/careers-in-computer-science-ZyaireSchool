@@ -1,5 +1,5 @@
 # Database Administrator (DBA)
-![DBA](https://replit.com/@ZimingQu/careers-in-computer-science-ZyaireSchool#images/dba_admin.jpg "DBA")
+![DBA](images/dba_admin.jpg "DBA")
 ## A Short Description 
 A database Administrators use software to store and organize data. They help the companies structure their data to make it easily accessible, valid, and **secure**. 
 *"Common tasks include merging data, configuring who can access it, performing backups, checking for errors and security problems, and making new databases that meet company requirements."* 
