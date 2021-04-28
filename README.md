@@ -1,10 +1,10 @@
 # Database Administrator (DBA)
 ![DBA](https://replit.com/@ZimingQu/careers-in-computer-science-ZyaireSchool#images/dba_admin.jpg "DBA")
-### A Short Description 
+## A Short Description 
 A database Administrators use software to store and organize data. They help the companies structure their data to make it easily accessible, valid, and **secure**. 
 *"Common tasks include merging data, configuring who can access it, performing backups, checking for errors and security problems, and making new databases that meet company requirements."* 
 
-### Role and Responsibilities 
+## Role and Responsibilities 
 A website that helps people finding jobs called [Monster.com](https://hiring.monster.com/employer-resources/job-description-templates/database-administrator-job-description/) collacts a list of information about what a database Administrator should do.
 * Install and maintain the performance of database servers.
 * Develop processes for optimizing database security.
@@ -18,7 +18,7 @@ A website that helps people finding jobs called [Monster.com](https://hiring.mon
 * Create automation for repeating database tasks.
 * Be available for on-call support as needed.
 ***
-### Required Education
+## Required Education
 People need to get to post-secondary education and get the diploma to be database administrators.
 
 | Education Level | % of data administrators|
@@ -31,20 +31,20 @@ People need to get to post-secondary education and get the diploma to be databas
 | Doctorate | 0% |
 **Most of data administrators have bachelor's degree.**
 ***
-### Required technical skills
+## Required technical skills
 Most companies required the employees have coding experiences in various languages, such as Python, Java, C... (or excel)
 * Work with databases from Oracle and Microsoft that use structured query language as well as newer systems that use the NoSQL format. 
 * Having knowledge of cloud-based services such as Microsoft Azure and Amazon Web Services.
 * Cloud database administrators should know how to use remote setup and monitoring tools.
-### Required non-technical skills
+## Required non-technical skills
 Data administrators need to keep an eye on any emergencies happening. Therefore, they need to have team work skills (troubleshooting is not individual work), and to resolve problems in a short time.
 * Analytical and problem-solving skills
 * Collaboration skills
 * Communication skills 
 * Troubleshooting skills
 ***
-### Salary Range for different level of employees
-#### Entry-level position - German Star Motors Inc
+## Salary Range for different level of employees
+### Entry-level position - German Star Motors Inc
 **Salary:** $42,000 - $59,000 a year
 **City:** Scarborough
 **The actual job description:**  
@@ -66,7 +66,7 @@ Extra Required Skills
 * Quick learner + multi tasker
 * Able to team work and work under pressure
 
-#### Mid-level position - Habitat for Humanity Canada 
+### Mid-level position - Habitat for Humanity Canada 
 **Salary:** $34,000 - $45,000 a year 
 **City:** Toronto
 **The actual job description:**  
@@ -75,7 +75,7 @@ Extra Required Skills
 **Any additional skills or experience required:** 
 - Proven dedication to customer service; Ability and willingness to work with repeated manual data entry; Ability and willingness to manage telephone and email questions and concerns from donors; Attention to detail and accuracy; Ability to follow direction, work independently as well as a team member; Positive, proactive and cooperative attitude; Excellent written and verbal communication skills; Demonstrated organizational skills and initiative.
 
-#### Senior Level - Zenith System Solutions Inc.
+### Senior Level - Zenith System Solutions Inc.
 **Salary:** $95,000 - $130,000 a year
 **City:** Toronto
 **The actual job description:**  
@@ -84,15 +84,15 @@ Extra Required Skills
 **Any additional skills or experience required:** 
 - Oracle RAC Experience, Experience in non-Oracle (NoSQL)database, Strong knowledge in development life cycle process.
 ***
-### College and/or universities that offers entrance into a related program
+## College and/or universities that offers entrance into a related program
 Every database administrator has an educational background in computer science programs, and one of the most famous schools of computer science programs is the University of Waterloo.
-#### Entrance Requirements
+### Entrance Requirements
 - Six Grade 12 U and/or M courses including Advanced Functions, Calculus and Vectors, Any Grade 12 U English, One other 4U course
 - Recommended Grade 11 U Introduction to computer science.
 - Admission average: low to mid-90s
 - Have written EUCLID and CSMC
 
-#### Description of first-year program to take
+### Description of first-year program to take
 For the first year of the university, we need to take 10 courses including 3 elective courses, one communication skill course, and 6 mandatory courses.
 **September to December:** 
 - CS 135 - Designing Functional Programs
@@ -107,5 +107,5 @@ For the first year of the university, we need to take 10 courses including 3 ele
 - MATH 138 - Calculus 2
 - Two electives
 
-#### The length of time to complete the diploma
+### The length of time to complete the diploma
 Since the UofW provides student co-op experience, those who choose to have a co-op period will get a bachelor's degree in 5 years. Those who do not choose to co-op takes four years to earn a bachelor's degree.
