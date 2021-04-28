@@ -27,4 +27,4 @@ People need to get to post-secondary education and get the diploma to be databas
 | Bachelor's degree | 77% |
 | Master's degree | 15% |
 | Doctorate | 0% |
-Most of data administrators have bachelor's degree.
+**Most of data administrators have bachelor's degree.**
