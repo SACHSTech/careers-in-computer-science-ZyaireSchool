@@ -43,3 +43,4 @@ Data administrators need to keep an eye on any emergencies happening. Therefore,
 * Communication skills 
 * Troubleshooting skills
 ***
+### Salary Range for different level of employees
