@@ -106,3 +106,6 @@ For the first year of the university, we need to take 10 courses including 3 ele
 - MATH 136 - Linear Algebra 1
 - MATH 138 - Calculus 2
 - Two electives
+
+#### The length of time to complete the diploma
+Since the UofW provides student co-op experience, those who choose to have a co-op period will get a bachelor's degree in 5 years. Those who do not choose to co-op takes four years to earn a bachelor's degree.
