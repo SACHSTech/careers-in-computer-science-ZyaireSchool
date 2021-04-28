@@ -66,7 +66,7 @@ Extra Required Skills
 * Quick learner + multi tasker
 * Able to team work and work under pressure
 
-#### Mid-level position - Habitat for Humanity Canada
+#### Mid-level position - Habitat for Humanity Canada 
 **Salary:** $34,000 - $45,000 a year 
 **City:** Toronto
 **The actual job description:**  
@@ -84,3 +84,6 @@ Extra Required Skills
 **Any additional skills or experience required:** 
 - Oracle RAC Experience, Experience in non-Oracle (NoSQL)database, Strong knowledge in development life cycle process.
 ***
+### College and/or universities that offers entrance into a related program
+Every database administrator has an educational background in computer science programs, and one of the most famous schools of computer science programs is the University of Waterloo.
+ 
