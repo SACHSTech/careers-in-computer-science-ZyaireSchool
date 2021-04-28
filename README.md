@@ -125,3 +125,18 @@ For the first year of the university, we need to take 10 courses including 3 ele
 
 ### The length of time to complete the diploma
 Since the UofW provides student co-op experience, those who choose to have a co-op period will get a bachelor's degree in 5 years. Those who do not choose to co-op takes four years to earn a bachelor's degree.
+***
+## Getting experience related to Data Administrators
+### Extra Certifications
+**In order to be a pro data administrator, to get some certifications are Essential. These are the most popular ones that people would like to get. **
+- IBM Certified Database Administrator – DB2
+IBM is one of the leaders in the worldwide database market by any objective measure. It inclueds industry-standard DB2, as well as IBM Compose, Information Management System (IMS), Informix, Cloudant and IBM Open Platform with Apache Hadoop. IBM also has a long-standing and well-populated IT certification program.
+- Microsoft SQL Server database certifications
+It offers a broad range of tools and add-ons for business intelligence, data warehousing and data-driven applications of all kinds. In addition, Microsoft provide different certification Programs for people in different levels.
+- Oracle Certified Professional, MySQL 5.7 Database Administrator
+Oracle runs its certifications under the auspices of Oracle University. The Oracle Database Certifications page lists separate tracks for Database Application Development (SQL and PL/SQL), MySQL (Database Administration and Developer) and Oracle Database (versions 12c, 12c R2, and 11g, and Oracle Spatial 11g). 
+- Oracle Database 12c Administrator
+Most Oracle DBMS credentials require candidates to attend authorized training classes to qualify for the related exam, but MySQL (and Sun-derived) credentials often do not.
+- SAP HANA: SAP Certified Technology Associate – SAP HANA (Edition 2016)
+SAP SE has a large portfolio of business application and analytics software, including cloud infrastructure, applications, and storage. 
+### Self-development for thinking style and characteristics
