@@ -147,8 +147,9 @@ SAP SE has a large portfolio of business application and analytics software, inc
 - Structured query language, or SQL, is the standard for relational database management systems. Several versions of SQL exist, but all use the same basic command structure. Modern relational database management systems such as MS SQL Server, IBM DB2, Oracle, MySQL and Microsoft Access are all based on SQL. Many database developers also learn Visual Basic and Java so they can write custom code to improve user interfaces.
 - Participating in competetion can train the problemshooting ability and can reinforce the knowledge people currently have by doing challenge questions.
 ## Work Cited
+
 Business News Daily Editor. “Best Database Certifications for 2020.” Business News Daily, businessnewsdaily.com, 9 Nov. 2018, [www.businessnewsdaily.com/10734-database-certifications.html](www.businessnewsdaily.com/10734-database-certifications.html). Accessed 28 Apr. 2021.(certificate)
-‌
+
 “Bachelor’s in Computer Science.” Get an Education the World Needs | ComputerScience.org, 14 Oct. 2020, [www.computerscience.org/degrees/bachelors/](www.computerscience.org/degrees/bachelors/). Accessed 28 Apr. 2021.
 
 CareerExplorer. “What Does a Database Administrator Do?” Careerexplorer.com, CareerExplorer, 11 Apr. 2017, www.careerexplorer.com/careers/database-administrator/. Accessed 27 Apr. 2021. 
@@ -162,7 +163,7 @@ CareerExplorer. “What Does a Database Administrator Do?” Careerexplorer.com,
 “Skills Needed by a Database Administrator.” Work - Chron.com, 2012, [work.chron.com/skills-needed-database-administrator-10356.html](work.chron.com/skills-needed-database-administrator-10356.html). Accessed 27 Apr. 2021.
 
 “The Ultimate Guide on How to Become a Database Administrator.” Pluralsight.com, 2017, [www.pluralsight.com/resource-center/guides/guide-to-becoming-a-database-admin](www.pluralsight.com/resource-center/guides/guide-to-becoming-a-database-admin). Accessed 28 Apr. 2021.
-‌
+
 “The Ultimate Guide on How to Become a Database Administrator.” Pluralsight.com, 2017, [www.pluralsight.com/resource-center/guides/guide-to-becoming-a-database-admin](www.pluralsight.com/resource-center/guides/guide-to-becoming-a-database-admin). Accessed 28 Apr. 2021.
 
 “Top 20 Database Administrator Jobs (with Salaries!) | Workopolis.” Workopolis, 14 Apr. 2021, [www.workopolis.com/jobsearch/find-jobs?ak=database+administrator&l=&job=-29O40O5e8GNldET0un7dIcWUAOrxeXN4xTlT8rLqJnf6wX4wDa8qg](www.workopolis.com/jobsearch/find-jobs?ak=database+administrator&l=&job=-29O40O5e8GNldET0un7dIcWUAOrxeXN4xTlT8rLqJnf6wX4wDa8qg). Accessed 28 Apr. 2021.
