@@ -147,8 +147,8 @@ SAP SE has a large portfolio of business application and analytics software, inc
 - Structured query language, or SQL, is the standard for relational database management systems. Several versions of SQL exist, but all use the same basic command structure. Modern relational database management systems such as MS SQL Server, IBM DB2, Oracle, MySQL and Microsoft Access are all based on SQL. Many database developers also learn Visual Basic and Java so they can write custom code to improve user interfaces.
 - Participating in competetion can train the problemshooting ability and can reinforce the knowledge people currently have by doing challenge questions.
 ## Work Cited
-CareerExplorer. “What Does a Database Administrator Do?” Careerexplorer.com, CareerExplorer, 11 Apr. 2017, <www.careerexplorer.com/careers/database-administrator/>. Accessed 27 Apr. 2021. 
+CareerExplorer. “What Does a Database Administrator Do?” Careerexplorer.com, CareerExplorer, 11 Apr. 2017, www.careerexplorer.com/careers/database-administrator/. Accessed 27 Apr. 2021. 
 
-“Skills Needed by a Database Administrator.” Work - Chron.com, 2012, <work.chron.com/skills-needed-database-administrator-10356.html.> Accessed 27 Apr. 2021.
+“Skills Needed by a Database Administrator.” Work - Chron.com, 2012,work.chron.com/skills-needed-database-administrator-10356.html. Accessed 27 Apr. 2021.
 
-“Database Administrator Job Description Sample | Monster.com.” Monster Employer Resources | Monster.com, 14 May 2012, <hiring.monster.com/employer-resources/job-description-templates/database-administrator-job-description/>. Accessed 28 Apr. 2021. 
+“Database Administrator Job Description Sample | Monster.com.” Monster Employer Resources | Monster.com, 14 May 2012, hiring.monster.com/employer-resources/job-description-templates/database-administrator-job-description/. Accessed 28 Apr. 2021. 
