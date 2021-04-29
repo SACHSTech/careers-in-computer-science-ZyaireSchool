@@ -162,6 +162,8 @@ CareerExplorer. “What Does a Database Administrator Do?” Careerexplorer.com,
 
 “Skills Needed by a Database Administrator.” Work - Chron.com, 2012, [work.chron.com/skills-needed-database-administrator-10356.html](work.chron.com/skills-needed-database-administrator-10356.html). Accessed 27 Apr. 2021.
 
+Roussey, Benjamin. “Want to Become a Database Administrator? Here Is What You Need to Know.” TechGenix, TechGenix, 4 Sept. 2018, [techgenix.com/database-administrator/](techgenix.com/database-administrator/). Accessed 29 Apr. 2021.
+
 “The Ultimate Guide on How to Become a Database Administrator.” Pluralsight.com, 2017, [www.pluralsight.com/resource-center/guides/guide-to-becoming-a-database-admin](www.pluralsight.com/resource-center/guides/guide-to-becoming-a-database-admin). Accessed 28 Apr. 2021.
 
 “The Ultimate Guide on How to Become a Database Administrator.” Pluralsight.com, 2017, [www.pluralsight.com/resource-center/guides/guide-to-becoming-a-database-admin](www.pluralsight.com/resource-center/guides/guide-to-becoming-a-database-admin). Accessed 28 Apr. 2021.
