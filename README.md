@@ -6,7 +6,7 @@ A database Administrators use software to store and organize data. They help the
 *"Common tasks include merging data, configuring who can access it, performing backups, checking for errors and security problems, and making new databases that meet company requirements."* 
 
 ## Role and Responsibilities 
-A website that helps people finding jobs called [Monster.com](https://hiring.monster.com/employer-resources/job-description-templates/database-administrator-job-description/) collacts a list of information about what a database Administrator should do.
+There is a list of information about what a database Administrator should do.
 * Install and maintain the performance of database servers.
 * Develop processes for optimizing database security.
 * Set and maintain database standards.
