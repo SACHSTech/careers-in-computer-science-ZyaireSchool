@@ -149,6 +149,6 @@ SAP SE has a large portfolio of business application and analytics software, inc
 ## Work Cited
 CareerExplorer. “What Does a Database Administrator Do?” Careerexplorer.com, CareerExplorer, 11 Apr. 2017, www.careerexplorer.com/careers/database-administrator/. Accessed 27 Apr. 2021. 
 
-“Skills Needed by a Database Administrator.” Work - Chron.com, 2012,work.chron.com/skills-needed-database-administrator-10356.html. Accessed 27 Apr. 2021.
+“Skills Needed by a Database Administrator.” Work - Chron.com, 2012,       work.chron.com/skills-needed-database-administrator-10356.html. Accessed 27 Apr. 2021.
 
 “Database Administrator Job Description Sample | Monster.com.” Monster Employer Resources | Monster.com, 14 May 2012, hiring.monster.com/employer-resources/job-description-templates/database-administrator-job-description/. Accessed 28 Apr. 2021. 
