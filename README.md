@@ -140,3 +140,6 @@ Most Oracle DBMS credentials require candidates to attend authorized training cl
 - SAP HANA: SAP Certified Technology Associate – SAP HANA (Edition 2016)
 SAP SE has a large portfolio of business application and analytics software, including cloud infrastructure, applications, and storage. 
 ### Self-development for thinking style and characteristics
+- Try to troubleshoot problems that hard to encounter, eliminate the errors or analyse where the problems comes from. It is an essential skill for data administrators. A good DBA is one who can see an error, and then quickly determine potential causes and construct possible solutions.
+- Memorizing more concepts, gaining more knowledge and thinking logically. It is an ability to recall technical facts about the systems and platforms, especially when using Linux Shell commands. Likewise, keeping in mind several specific facts about your particular environment (Do you operate in a LAN or WAN? What are the administrator passwords to the databases? How many users do you have? When is your next database audit? Where are your backups stored?) is crucial.
+- Strong passionate to learn new knowledge. Since the IT filed is developing rapidly, the ability of learning keeps people's mind freash and gain new solutions when face problems.
